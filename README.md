@@ -1,6 +1,22 @@
 "# Muhammad-Arief-Faruq-Wafdan" 
 import 'dart:io';
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 String penentuIndeks(double skor) {
   if (skor >= 85 && skor <= 100) {
     return 'A';
